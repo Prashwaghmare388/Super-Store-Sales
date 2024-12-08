@@ -19,8 +19,8 @@ The Super Store wants to create an annual sales report for 2022. So that, the ow
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-## Dataset Intwraction
-- <a href="https://github.com/Prashwaghmare388/Data_Analyst_Projects/blob/main/Screenshot%202024-12-07%20032602.png">View Dataset</a>
+## Dataset Interaction
+- <a href="https://github.com/Prashwaghmare388/Super-Store-Sales/blob/main/Screenshot%">View Dataset</a>
 
 ## Process
 
