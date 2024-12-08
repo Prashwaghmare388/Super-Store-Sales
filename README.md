@@ -20,7 +20,7 @@ The Super Store wants to create an annual sales report for 2022. So that, the ow
 - Percentage of Total Orders delivered
 
 ## Dataset Interaction
-- <a href="https://github.com/Prashwaghmare388/Super-Store-Sales/blob/main/Screenshot%">View Dataset</a>
+- <a href="https://github.com/Prashwaghmare388/Super-Store-Sales/blob/main/Screenshot%202024-12-07%20032602.png">View Dashboard</a>
 
 ## Process
 
@@ -33,7 +33,8 @@ Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply a slicer to make it dynamic.
 
 ## Dashboard
-![Screenshot 2024-12-07 032602](https://github.com/user-attachments/assets/e8451ce9-2546-4713-9b2d-edd30aad3b99)
+![Screenshot 2024-12-07 032602](https://github.com/user-attachments/assets/953c677b-a82d-4788-876d-d26a8cf3aa72)
+
 
 ## Project Insight
 
